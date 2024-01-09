@@ -1,2 +1,2 @@
-# React homework 02-phonebook
+# React homework phonebook
 
