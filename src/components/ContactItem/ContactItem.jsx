@@ -1,5 +1,6 @@
-import { ListItemStyled } from './ContactItem.styled';
 import { FaTrashAlt } from 'react-icons/fa';
+
+import { ListItemStyled } from './ContactItem.styled';
 
 export const ListItem = ({ id, name, number, handlerClick }) => {
   return (
